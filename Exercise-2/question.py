@@ -3,4 +3,4 @@
 
 favouriteFood = ["apples","bananas"]
 
-print("My favourite food are " + favouriteFood[0] + " and " + favouriteFood[1])
+print("My favourite food are: " + favouriteFood[0] + " and " + favouriteFood[1])
