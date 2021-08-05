@@ -18,6 +18,7 @@ You will be givin 2 files in each exercise. Open the one that says `question.py`
 
 I strongly **recomend** using an IDE. You can always use a notepad but you can **NOT** run it through there. If you need one I will list free IDE'S for you to install below:
 
+<br>
 
 | IDE     	| DOWNLOAD                               	|
 |---------	|----------------------------------------	|
